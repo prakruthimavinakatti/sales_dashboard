@@ -4,7 +4,7 @@ Interactive sales dashboard to track performance, identify trends, and make info
 This Power BI dashboard provides a comprehensive overview of your sales performance, with interactive visualizations and drill-down capabilities to help you identify trends and make informed decisions
 
 Key features:
-Comprehensive metrics: Track key sales metrics such as revenue, pipeline, number of deals, and win rate.
+Comprehensive metrics: Track key sales metrics such as revenue, number of deals.
 Interactive visualizations: Visualize your data in a variety of ways, including charts, graphs, and maps.
 Drill-down capabilities: Drill down into the data to get more granular insights into your sales performance.
 
