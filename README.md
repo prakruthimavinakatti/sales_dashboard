@@ -8,4 +8,4 @@ Following are the insights we got:
 3.	Maximum Customers use Cash on Delivery payment mode (43%)
 4.	Customers Preferred the standing mode of shipping the most (0.33 M)
 5.	The Most Sold product category is office supplies (0.64 M)
-6.	The Most sold sub =-category is phones (0.20M)
+6.	The Most sold sub -category is phones (0.20M)
